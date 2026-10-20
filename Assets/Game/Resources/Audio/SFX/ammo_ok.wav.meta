@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: Wywe43ikAHo8kjfh25E3uhzaHLoUXJTjjOY/M2iWJv3bRpSuGm13cnE=
+labels:
+- Session_c10fff4c-5c1c-4bf6-a568-32d0cc056444
+- TuanjieAI
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 7
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
